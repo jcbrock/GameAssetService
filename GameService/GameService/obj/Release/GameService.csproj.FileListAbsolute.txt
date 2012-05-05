@@ -1,0 +1,14 @@
+\\mgofrd1\redirect04\g521214\My Documents\Visual Studio 11\Projects\GameService\GameService\bin\GameService.dll
+\\mgofrd1\redirect04\g521214\My Documents\Visual Studio 11\Projects\GameService\GameService\bin\GameService.pdb
+\\mgofrd1\redirect04\g521214\My Documents\Visual Studio 11\Projects\GameService\GameService\obj\Release\GameService.csprojResolveAssemblyReference.cache
+\\mgofrd1\redirect04\g521214\My Documents\Visual Studio 11\Projects\GameService\GameService\obj\Release\GameService.dll
+\\mgofrd1\redirect04\g521214\My Documents\Visual Studio 11\Projects\GameService\GameService\obj\Release\GameService.pdb
+C:\Projects\GameService\GameService\bin\GameService.dll
+C:\Projects\GameService\GameService\bin\GameService.pdb
+C:\Projects\GameService\GameService\bin\FTPWrapper.dll
+C:\Projects\GameService\GameService\bin\nunit.framework.dll
+C:\Projects\GameService\GameService\bin\FTPWrapper.pdb
+C:\Projects\GameService\GameService\bin\nunit.framework.xml
+C:\Projects\GameService\GameService\obj\Release\GameService.csprojResolveAssemblyReference.cache
+C:\Projects\GameService\GameService\obj\Release\GameService.dll
+C:\Projects\GameService\GameService\obj\Release\GameService.pdb

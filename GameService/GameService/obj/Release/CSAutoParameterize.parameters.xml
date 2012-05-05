@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="GameAssetConnectionString-Web.config Connection String" description="GameAssetConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=sunflower.arvixe.com;Initial Catalog=testingDB;User Id=jcbrock;Password=tcotta44!" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Projects\\GameService\\GameService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='GameAssetConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

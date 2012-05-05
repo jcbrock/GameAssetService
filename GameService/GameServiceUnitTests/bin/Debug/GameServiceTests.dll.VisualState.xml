@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="true">
+  <TopNode>[0-1115]C:\Projects\GameService\GameServiceUnitTests\bin\Debug\GameServiceTests.dll</TopNode>
+  <SelectedNode>[0-1115]C:\Projects\GameService\GameServiceUnitTests\bin\Debug\GameServiceTests.dll</SelectedNode>
+  <SelectedCategories>Unit,Functional</SelectedCategories>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1115]C:\Projects\GameService\GameServiceUnitTests\bin\Debug\GameServiceTests.dll" Expanded="true" />
+    <Node UniqueName="[0-1026]FileTests" Expanded="true" />
+    <Node UniqueName="[0-1116]GameServiceTests" Expanded="true" />
+    <Node UniqueName="[0-1042]GameServiceTests.GameAssetServiceTests" Expanded="true" Checked="true" />
+  </Nodes>
+</VisualState>

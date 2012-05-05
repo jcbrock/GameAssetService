@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1004]C:\Projects\GameService\GameService\bin\GameService.dll</TopNode>
+  <SelectedNode>[0-1001]GameService.GameAssetServiceTest.InsertUser</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1004]C:\Projects\GameService\GameService\bin\GameService.dll" Expanded="true" />
+    <Node UniqueName="[0-1005]GameService" Expanded="true" />
+    <Node UniqueName="[0-1000]GameService.GameAssetServiceTest" Expanded="true" />
+  </Nodes>
+</VisualState>

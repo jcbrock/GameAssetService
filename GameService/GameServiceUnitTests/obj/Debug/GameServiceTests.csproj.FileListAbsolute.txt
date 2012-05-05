@@ -1,0 +1,14 @@
+C:\Projects\GameService\GameServiceUnitTests\bin\Debug\GameServiceTests.dll
+C:\Projects\GameService\GameServiceUnitTests\bin\Debug\GameServiceTests.pdb
+C:\Projects\GameService\GameServiceUnitTests\bin\Debug\GameService.dll
+C:\Projects\GameService\GameServiceUnitTests\bin\Debug\nunit.framework.dll
+C:\Projects\GameService\GameServiceUnitTests\bin\Debug\GameService.pdb
+C:\Projects\GameService\GameServiceUnitTests\bin\Debug\nunit.framework.xml
+C:\Projects\GameService\GameServiceUnitTests\obj\Debug\GameServiceTests.csprojResolveAssemblyReference.cache
+C:\Projects\GameService\GameServiceUnitTests\obj\Debug\GameServiceTests.dll
+C:\Projects\GameService\GameServiceUnitTests\obj\Debug\GameServiceTests.pdb
+C:\Projects\GameService\GameServiceUnitTests\bin\Debug\Moq.dll
+C:\Projects\GameService\GameServiceUnitTests\bin\Debug\Moq.pdb
+C:\Projects\GameService\GameServiceUnitTests\bin\Debug\Moq.xml
+C:\Projects\GameService\GameServiceUnitTests\bin\Debug\FTPWrapper.dll
+C:\Projects\GameService\GameServiceUnitTests\bin\Debug\FTPWrapper.pdb

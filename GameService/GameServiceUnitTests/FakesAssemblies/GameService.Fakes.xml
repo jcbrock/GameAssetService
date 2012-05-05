@@ -1,0 +1,1136 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GameService.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:GameService.BusinessObjects.CustomClasses.Fakes.ShimDownloadHistory">
+            <summary>Shim type of GameService.BusinessObjects.CustomClasses.DownloadHistory</summary>
+        </member>
+        <member name="M:GameService.BusinessObjects.CustomClasses.Fakes.ShimDownloadHistory.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:GameService.BusinessObjects.CustomClasses.Fakes.ShimDownloadHistory.#ctor(GameService.BusinessObjects.CustomClasses.DownloadHistory)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:GameService.BusinessObjects.CustomClasses.Fakes.ShimDownloadHistory.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:GameService.BusinessObjects.CustomClasses.Fakes.ShimDownloadHistory.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimDownloadHistory.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimDownloadHistory.Constructor">
+            <summary>Sets the mole of DownloadHistory.DownloadHistory()</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimDownloadHistory.DownloadHistoryIdGet">
+            <summary>Sets the mole of DownloadHistory.get_DownloadHistoryId()</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimDownloadHistory.DownloadHistoryIdSetInt32">
+            <summary>Sets the mole of DownloadHistory.set_DownloadHistoryId(Int32 value)</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimDownloadHistory.DownloadTimeGet">
+            <summary>Sets the mole of DownloadHistory.get_DownloadTime()</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimDownloadHistory.DownloadTimeSetDateTime">
+            <summary>Sets the mole of DownloadHistory.set_DownloadTime(DateTime value)</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimDownloadHistory.FileIdGet">
+            <summary>Sets the mole of DownloadHistory.get_FileId()</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimDownloadHistory.FileIdSetInt32">
+            <summary>Sets the mole of DownloadHistory.set_FileId(Int32 value)</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimDownloadHistory.UserIdGet">
+            <summary>Sets the mole of DownloadHistory.get_UserId()</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimDownloadHistory.UserIdSetInt32">
+            <summary>Sets the mole of DownloadHistory.set_UserId(Int32 value)</summary>
+        </member>
+        <member name="T:GameService.BusinessObjects.CustomClasses.Fakes.ShimDownloadHistory.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimDownloadHistory.AllInstances.DownloadHistoryIdGet">
+            <summary>Sets the mole of DownloadHistory.get_DownloadHistoryId()</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimDownloadHistory.AllInstances.DownloadHistoryIdSetInt32">
+            <summary>Sets the mole of DownloadHistory.set_DownloadHistoryId(Int32 value)</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimDownloadHistory.AllInstances.DownloadTimeGet">
+            <summary>Sets the mole of DownloadHistory.get_DownloadTime()</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimDownloadHistory.AllInstances.DownloadTimeSetDateTime">
+            <summary>Sets the mole of DownloadHistory.set_DownloadTime(DateTime value)</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimDownloadHistory.AllInstances.FileIdGet">
+            <summary>Sets the mole of DownloadHistory.get_FileId()</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimDownloadHistory.AllInstances.FileIdSetInt32">
+            <summary>Sets the mole of DownloadHistory.set_FileId(Int32 value)</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimDownloadHistory.AllInstances.UserIdGet">
+            <summary>Sets the mole of DownloadHistory.get_UserId()</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimDownloadHistory.AllInstances.UserIdSetInt32">
+            <summary>Sets the mole of DownloadHistory.set_UserId(Int32 value)</summary>
+        </member>
+        <member name="T:GameService.BusinessObjects.CustomClasses.Fakes.ShimFile">
+            <summary>Shim type of GameService.BusinessObjects.CustomClasses.File</summary>
+        </member>
+        <member name="M:GameService.BusinessObjects.CustomClasses.Fakes.ShimFile.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:GameService.BusinessObjects.CustomClasses.Fakes.ShimFile.#ctor(GameService.BusinessObjects.CustomClasses.File)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:GameService.BusinessObjects.CustomClasses.Fakes.ShimFile.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:GameService.BusinessObjects.CustomClasses.Fakes.ShimFile.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimFile.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimFile.CheckedOutGet">
+            <summary>Sets the mole of File.get_CheckedOut()</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimFile.CheckedOutSetBoolean">
+            <summary>Sets the mole of File.set_CheckedOut(Boolean value)</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimFile.Constructor">
+            <summary>Sets the mole of File.File()</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimFile.FileIdGet">
+            <summary>Sets the mole of File.get_FileId()</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimFile.FileIdSetInt32">
+            <summary>Sets the mole of File.set_FileId(Int32 value)</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimFile.FilePathGet">
+            <summary>Sets the mole of File.get_FilePath()</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimFile.FilePathSetString">
+            <summary>Sets the mole of File.set_FilePath(String value)</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimFile.IsDirectoryGet">
+            <summary>Sets the mole of File.get_IsDirectory()</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimFile.IsDirectorySetBoolean">
+            <summary>Sets the mole of File.set_IsDirectory(Boolean value)</summary>
+        </member>
+        <member name="T:GameService.BusinessObjects.CustomClasses.Fakes.ShimFile.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimFile.AllInstances.CheckedOutGet">
+            <summary>Sets the mole of File.get_CheckedOut()</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimFile.AllInstances.CheckedOutSetBoolean">
+            <summary>Sets the mole of File.set_CheckedOut(Boolean value)</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimFile.AllInstances.FileIdGet">
+            <summary>Sets the mole of File.get_FileId()</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimFile.AllInstances.FileIdSetInt32">
+            <summary>Sets the mole of File.set_FileId(Int32 value)</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimFile.AllInstances.FilePathGet">
+            <summary>Sets the mole of File.get_FilePath()</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimFile.AllInstances.FilePathSetString">
+            <summary>Sets the mole of File.set_FilePath(String value)</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimFile.AllInstances.IsDirectoryGet">
+            <summary>Sets the mole of File.get_IsDirectory()</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimFile.AllInstances.IsDirectorySetBoolean">
+            <summary>Sets the mole of File.set_IsDirectory(Boolean value)</summary>
+        </member>
+        <member name="T:GameService.BusinessObjects.CustomClasses.Fakes.ShimUser">
+            <summary>Shim type of GameService.BusinessObjects.CustomClasses.User</summary>
+        </member>
+        <member name="M:GameService.BusinessObjects.CustomClasses.Fakes.ShimUser.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:GameService.BusinessObjects.CustomClasses.Fakes.ShimUser.#ctor(GameService.BusinessObjects.CustomClasses.User)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:GameService.BusinessObjects.CustomClasses.Fakes.ShimUser.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:GameService.BusinessObjects.CustomClasses.Fakes.ShimUser.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimUser.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimUser.Constructor">
+            <summary>Sets the mole of User.User()</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimUser.UserIdGet">
+            <summary>Sets the mole of User.get_UserId()</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimUser.UserIdSetInt32">
+            <summary>Sets the mole of User.set_UserId(Int32 value)</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimUser.UserNameGet">
+            <summary>Sets the mole of User.get_UserName()</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimUser.UserNameSetString">
+            <summary>Sets the mole of User.set_UserName(String value)</summary>
+        </member>
+        <member name="T:GameService.BusinessObjects.CustomClasses.Fakes.ShimUser.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimUser.AllInstances.UserIdGet">
+            <summary>Sets the mole of User.get_UserId()</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimUser.AllInstances.UserIdSetInt32">
+            <summary>Sets the mole of User.set_UserId(Int32 value)</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimUser.AllInstances.UserNameGet">
+            <summary>Sets the mole of User.get_UserName()</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.ShimUser.AllInstances.UserNameSetString">
+            <summary>Sets the mole of User.set_UserName(String value)</summary>
+        </member>
+        <member name="T:GameService.BusinessObjects.CustomClasses.Fakes.StubDownloadHistory">
+            <summary>Stub type of GameService.BusinessObjects.CustomClasses.DownloadHistory</summary>
+        </member>
+        <member name="M:GameService.BusinessObjects.CustomClasses.Fakes.StubDownloadHistory.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:GameService.BusinessObjects.CustomClasses.Fakes.StubDownloadHistory.InitializeStub">
+            <summary>Initializes a new instance of type StubDownloadHistory</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.StubDownloadHistory.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.StubDownloadHistory.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="T:GameService.BusinessObjects.CustomClasses.Fakes.StubFile">
+            <summary>Stub type of GameService.BusinessObjects.CustomClasses.File</summary>
+        </member>
+        <member name="M:GameService.BusinessObjects.CustomClasses.Fakes.StubFile.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:GameService.BusinessObjects.CustomClasses.Fakes.StubFile.InitializeStub">
+            <summary>Initializes a new instance of type StubFile</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.StubFile.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.StubFile.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="T:GameService.BusinessObjects.CustomClasses.Fakes.StubUser">
+            <summary>Stub type of GameService.BusinessObjects.CustomClasses.User</summary>
+        </member>
+        <member name="M:GameService.BusinessObjects.CustomClasses.Fakes.StubUser.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:GameService.BusinessObjects.CustomClasses.Fakes.StubUser.InitializeStub">
+            <summary>Initializes a new instance of type StubUser</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.StubUser.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:GameService.BusinessObjects.CustomClasses.Fakes.StubUser.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="T:GameService.Common.Fakes.ShimDatabaseRecordNotFoundException">
+            <summary>Shim type of GameService.Common.DatabaseRecordNotFoundException</summary>
+        </member>
+        <member name="M:GameService.Common.Fakes.ShimDatabaseRecordNotFoundException.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:GameService.Common.Fakes.ShimDatabaseRecordNotFoundException.#ctor(GameService.Common.DatabaseRecordNotFoundException)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:GameService.Common.Fakes.ShimDatabaseRecordNotFoundException.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:GameService.Common.Fakes.ShimDatabaseRecordNotFoundException.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:GameService.Common.Fakes.ShimDatabaseRecordNotFoundException.Bind(System.Runtime.Serialization.ISerializable)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:GameService.Common.Fakes.ShimDatabaseRecordNotFoundException.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:GameService.Common.Fakes.ShimDatabaseRecordNotFoundException.ConstructorSerializationInfoStreamingContext">
+            <summary>Sets the mole of DatabaseRecordNotFoundException.DatabaseRecordNotFoundException(SerializationInfo info, StreamingContext context)</summary>
+        </member>
+        <member name="P:GameService.Common.Fakes.ShimDatabaseRecordNotFoundException.ConstructorString">
+            <summary>Sets the mole of DatabaseRecordNotFoundException.DatabaseRecordNotFoundException(String message)</summary>
+        </member>
+        <member name="T:GameService.Common.Fakes.ShimDatabaseRecordNotFoundException.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="T:GameService.Common.Fakes.ShimUserNotFoundOnServerException">
+            <summary>Shim type of GameService.Common.UserNotFoundOnServerException</summary>
+        </member>
+        <member name="M:GameService.Common.Fakes.ShimUserNotFoundOnServerException.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:GameService.Common.Fakes.ShimUserNotFoundOnServerException.#ctor(GameService.Common.UserNotFoundOnServerException)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:GameService.Common.Fakes.ShimUserNotFoundOnServerException.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:GameService.Common.Fakes.ShimUserNotFoundOnServerException.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:GameService.Common.Fakes.ShimUserNotFoundOnServerException.Bind(System.Runtime.Serialization.ISerializable)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:GameService.Common.Fakes.ShimUserNotFoundOnServerException.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:GameService.Common.Fakes.ShimUserNotFoundOnServerException.ConstructorString">
+            <summary>Sets the mole of UserNotFoundOnServerException.UserNotFoundOnServerException(String message)</summary>
+        </member>
+        <member name="T:GameService.Common.Fakes.ShimUserNotFoundOnServerException.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="T:GameService.Common.Fakes.StubDatabaseRecordNotFoundException">
+            <summary>Stub type of GameService.Common.DatabaseRecordNotFoundException</summary>
+        </member>
+        <member name="M:GameService.Common.Fakes.StubDatabaseRecordNotFoundException.#ctor(System.String)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:GameService.Common.Fakes.StubDatabaseRecordNotFoundException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:GameService.Common.Fakes.StubDatabaseRecordNotFoundException.AttachBackingFieldToHelpLink">
+            <summary>Attaches delegates to emulate StubDatabaseRecordNotFoundException.HelpLink as a property with a backing field.</summary>
+        </member>
+        <member name="M:GameService.Common.Fakes.StubDatabaseRecordNotFoundException.AttachBackingFieldToSource">
+            <summary>Attaches delegates to emulate StubDatabaseRecordNotFoundException.Source as a property with a backing field.</summary>
+        </member>
+        <member name="F:GameService.Common.Fakes.StubDatabaseRecordNotFoundException.DataGet">
+            <summary>Sets the stub of Exception.get_Data()</summary>
+        </member>
+        <member name="M:GameService.Common.Fakes.StubDatabaseRecordNotFoundException.GetBaseException">
+            <summary>Sets the stub of Exception.GetBaseException()</summary>
+        </member>
+        <member name="F:GameService.Common.Fakes.StubDatabaseRecordNotFoundException.GetBaseException01">
+            <summary>Sets the stub of Exception.GetBaseException()</summary>
+        </member>
+        <member name="M:GameService.Common.Fakes.StubDatabaseRecordNotFoundException.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
+            <summary>Sets the stub of Exception.GetObjectData(SerializationInfo info, StreamingContext context)</summary>
+        </member>
+        <member name="F:GameService.Common.Fakes.StubDatabaseRecordNotFoundException.GetObjectDataSerializationInfoStreamingContext">
+            <summary>Sets the stub of Exception.GetObjectData(SerializationInfo info, StreamingContext context)</summary>
+        </member>
+        <member name="F:GameService.Common.Fakes.StubDatabaseRecordNotFoundException.HelpLinkGet">
+            <summary>Sets the stub of Exception.get_HelpLink()</summary>
+        </member>
+        <member name="F:GameService.Common.Fakes.StubDatabaseRecordNotFoundException.HelpLinkSetString">
+            <summary>Sets the stub of Exception.set_HelpLink(String value)</summary>
+        </member>
+        <member name="M:GameService.Common.Fakes.StubDatabaseRecordNotFoundException.InitializeStub">
+            <summary>Initializes a new instance of type StubDatabaseRecordNotFoundException</summary>
+        </member>
+        <member name="F:GameService.Common.Fakes.StubDatabaseRecordNotFoundException.MessageGet">
+            <summary>Sets the stub of Exception.get_Message()</summary>
+        </member>
+        <member name="F:GameService.Common.Fakes.StubDatabaseRecordNotFoundException.SourceGet">
+            <summary>Sets the stub of Exception.get_Source()</summary>
+        </member>
+        <member name="F:GameService.Common.Fakes.StubDatabaseRecordNotFoundException.SourceSetString">
+            <summary>Sets the stub of Exception.set_Source(String value)</summary>
+        </member>
+        <member name="F:GameService.Common.Fakes.StubDatabaseRecordNotFoundException.StackTraceGet">
+            <summary>Sets the stub of Exception.get_StackTrace()</summary>
+        </member>
+        <member name="M:GameService.Common.Fakes.StubDatabaseRecordNotFoundException.ToString">
+            <summary>Sets the stub of Exception.ToString()</summary>
+        </member>
+        <member name="F:GameService.Common.Fakes.StubDatabaseRecordNotFoundException.ToString01">
+            <summary>Sets the stub of Exception.ToString()</summary>
+        </member>
+        <member name="P:GameService.Common.Fakes.StubDatabaseRecordNotFoundException.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:GameService.Common.Fakes.StubDatabaseRecordNotFoundException.Data">
+            <summary>Sets the stub of Exception.get_Data()</summary>
+        </member>
+        <member name="P:GameService.Common.Fakes.StubDatabaseRecordNotFoundException.HelpLink">
+            <summary>Sets the stub of Exception.get_HelpLink()</summary>
+        </member>
+        <member name="P:GameService.Common.Fakes.StubDatabaseRecordNotFoundException.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:GameService.Common.Fakes.StubDatabaseRecordNotFoundException.Message">
+            <summary>Sets the stub of Exception.get_Message()</summary>
+        </member>
+        <member name="P:GameService.Common.Fakes.StubDatabaseRecordNotFoundException.Source">
+            <summary>Sets the stub of Exception.get_Source()</summary>
+        </member>
+        <member name="P:GameService.Common.Fakes.StubDatabaseRecordNotFoundException.StackTrace">
+            <summary>Sets the stub of Exception.get_StackTrace()</summary>
+        </member>
+        <member name="T:GameService.Common.Fakes.StubUserNotFoundOnServerException">
+            <summary>Stub type of GameService.Common.UserNotFoundOnServerException</summary>
+        </member>
+        <member name="M:GameService.Common.Fakes.StubUserNotFoundOnServerException.#ctor(System.String)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:GameService.Common.Fakes.StubUserNotFoundOnServerException.AttachBackingFieldToHelpLink">
+            <summary>Attaches delegates to emulate StubUserNotFoundOnServerException.HelpLink as a property with a backing field.</summary>
+        </member>
+        <member name="M:GameService.Common.Fakes.StubUserNotFoundOnServerException.AttachBackingFieldToSource">
+            <summary>Attaches delegates to emulate StubUserNotFoundOnServerException.Source as a property with a backing field.</summary>
+        </member>
+        <member name="F:GameService.Common.Fakes.StubUserNotFoundOnServerException.DataGet">
+            <summary>Sets the stub of Exception.get_Data()</summary>
+        </member>
+        <member name="M:GameService.Common.Fakes.StubUserNotFoundOnServerException.GetBaseException">
+            <summary>Sets the stub of Exception.GetBaseException()</summary>
+        </member>
+        <member name="F:GameService.Common.Fakes.StubUserNotFoundOnServerException.GetBaseException01">
+            <summary>Sets the stub of Exception.GetBaseException()</summary>
+        </member>
+        <member name="M:GameService.Common.Fakes.StubUserNotFoundOnServerException.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
+            <summary>Sets the stub of Exception.GetObjectData(SerializationInfo info, StreamingContext context)</summary>
+        </member>
+        <member name="F:GameService.Common.Fakes.StubUserNotFoundOnServerException.GetObjectDataSerializationInfoStreamingContext">
+            <summary>Sets the stub of Exception.GetObjectData(SerializationInfo info, StreamingContext context)</summary>
+        </member>
+        <member name="F:GameService.Common.Fakes.StubUserNotFoundOnServerException.HelpLinkGet">
+            <summary>Sets the stub of Exception.get_HelpLink()</summary>
+        </member>
+        <member name="F:GameService.Common.Fakes.StubUserNotFoundOnServerException.HelpLinkSetString">
+            <summary>Sets the stub of Exception.set_HelpLink(String value)</summary>
+        </member>
+        <member name="M:GameService.Common.Fakes.StubUserNotFoundOnServerException.InitializeStub">
+            <summary>Initializes a new instance of type StubUserNotFoundOnServerException</summary>
+        </member>
+        <member name="F:GameService.Common.Fakes.StubUserNotFoundOnServerException.MessageGet">
+            <summary>Sets the stub of Exception.get_Message()</summary>
+        </member>
+        <member name="F:GameService.Common.Fakes.StubUserNotFoundOnServerException.SourceGet">
+            <summary>Sets the stub of Exception.get_Source()</summary>
+        </member>
+        <member name="F:GameService.Common.Fakes.StubUserNotFoundOnServerException.SourceSetString">
+            <summary>Sets the stub of Exception.set_Source(String value)</summary>
+        </member>
+        <member name="F:GameService.Common.Fakes.StubUserNotFoundOnServerException.StackTraceGet">
+            <summary>Sets the stub of Exception.get_StackTrace()</summary>
+        </member>
+        <member name="M:GameService.Common.Fakes.StubUserNotFoundOnServerException.ToString">
+            <summary>Sets the stub of Exception.ToString()</summary>
+        </member>
+        <member name="F:GameService.Common.Fakes.StubUserNotFoundOnServerException.ToString01">
+            <summary>Sets the stub of Exception.ToString()</summary>
+        </member>
+        <member name="P:GameService.Common.Fakes.StubUserNotFoundOnServerException.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:GameService.Common.Fakes.StubUserNotFoundOnServerException.Data">
+            <summary>Sets the stub of Exception.get_Data()</summary>
+        </member>
+        <member name="P:GameService.Common.Fakes.StubUserNotFoundOnServerException.HelpLink">
+            <summary>Sets the stub of Exception.get_HelpLink()</summary>
+        </member>
+        <member name="P:GameService.Common.Fakes.StubUserNotFoundOnServerException.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:GameService.Common.Fakes.StubUserNotFoundOnServerException.Message">
+            <summary>Sets the stub of Exception.get_Message()</summary>
+        </member>
+        <member name="P:GameService.Common.Fakes.StubUserNotFoundOnServerException.Source">
+            <summary>Sets the stub of Exception.get_Source()</summary>
+        </member>
+        <member name="P:GameService.Common.Fakes.StubUserNotFoundOnServerException.StackTrace">
+            <summary>Sets the stub of Exception.get_StackTrace()</summary>
+        </member>
+        <member name="T:GameService.DataAccessLayer.Contracts.Fakes.StubIDownloadHistoryRepository">
+            <summary>Stub type of GameService.DataAccessLayer.Contracts.IDownloadHistoryRepository</summary>
+        </member>
+        <member name="M:GameService.DataAccessLayer.Contracts.Fakes.StubIDownloadHistoryRepository.#ctor">
+            <summary>Initializes a new instance of type StubIDownloadHistoryRepository</summary>
+        </member>
+        <member name="F:GameService.DataAccessLayer.Contracts.Fakes.StubIDownloadHistoryRepository.DeleteDownloadHistoryInt32">
+            <summary>Sets the stub of IDownloadHistoryRepository.DeleteDownloadHistory(Int32 downloadHistoryId)</summary>
+        </member>
+        <member name="M:GameService.DataAccessLayer.Contracts.Fakes.StubIDownloadHistoryRepository.gs::GameService#DataAccessLayer#Contracts#IDownloadHistoryRepository#DeleteDownloadHistory(System.Int32)">
+            <summary>Sets the stub of IDownloadHistoryRepository.DeleteDownloadHistory(Int32 downloadHistoryId)</summary>
+        </member>
+        <member name="M:GameService.DataAccessLayer.Contracts.Fakes.StubIDownloadHistoryRepository.gs::GameService#DataAccessLayer#Contracts#IDownloadHistoryRepository#GetDownloadHistory(System.Int32)">
+            <summary>Sets the stub of IDownloadHistoryRepository.GetDownloadHistory(Int32 downloadHistoryId)</summary>
+        </member>
+        <member name="M:GameService.DataAccessLayer.Contracts.Fakes.StubIDownloadHistoryRepository.gs::GameService#DataAccessLayer#Contracts#IDownloadHistoryRepository#InsertDownloadHistory(System.Int32,System.Int32,System.DateTime)">
+            <summary>Sets the stub of IDownloadHistoryRepository.InsertDownloadHistory(Int32 userId, Int32 fileId, DateTime downloadTime)</summary>
+        </member>
+        <member name="M:GameService.DataAccessLayer.Contracts.Fakes.StubIDownloadHistoryRepository.gs::GameService#DataAccessLayer#Contracts#IDownloadHistoryRepository#UpdateDownloadHistory(System.Int32,System.Int32,System.Int32,System.DateTime)">
+            <summary>Sets the stub of IDownloadHistoryRepository.UpdateDownloadHistory(Int32 downloadHistoryId, Int32 userId, Int32 fileId, DateTime downloadTime)</summary>
+        </member>
+        <member name="F:GameService.DataAccessLayer.Contracts.Fakes.StubIDownloadHistoryRepository.GetDownloadHistoryInt32">
+            <summary>Sets the stub of IDownloadHistoryRepository.GetDownloadHistory(Int32 downloadHistoryId)</summary>
+        </member>
+        <member name="F:GameService.DataAccessLayer.Contracts.Fakes.StubIDownloadHistoryRepository.InsertDownloadHistoryInt32Int32DateTime">
+            <summary>Sets the stub of IDownloadHistoryRepository.InsertDownloadHistory(Int32 userId, Int32 fileId, DateTime downloadTime)</summary>
+        </member>
+        <member name="F:GameService.DataAccessLayer.Contracts.Fakes.StubIDownloadHistoryRepository.UpdateDownloadHistoryInt32Int32Int32DateTime">
+            <summary>Sets the stub of IDownloadHistoryRepository.UpdateDownloadHistory(Int32 downloadHistoryId, Int32 userId, Int32 fileId, DateTime downloadTime)</summary>
+        </member>
+        <member name="T:GameService.DataAccessLayer.Contracts.Fakes.StubIFileRepository">
+            <summary>Stub type of GameService.DataAccessLayer.Contracts.IFileRepository</summary>
+        </member>
+        <member name="M:GameService.DataAccessLayer.Contracts.Fakes.StubIFileRepository.#ctor">
+            <summary>Initializes a new instance of type StubIFileRepository</summary>
+        </member>
+        <member name="F:GameService.DataAccessLayer.Contracts.Fakes.StubIFileRepository.CheckInFileInt32">
+            <summary>Sets the stub of IFileRepository.CheckInFile(Int32 fileId)</summary>
+        </member>
+        <member name="F:GameService.DataAccessLayer.Contracts.Fakes.StubIFileRepository.CheckoutFileInt32">
+            <summary>Sets the stub of IFileRepository.CheckoutFile(Int32 fileId)</summary>
+        </member>
+        <member name="F:GameService.DataAccessLayer.Contracts.Fakes.StubIFileRepository.DeleteFileInt32">
+            <summary>Sets the stub of IFileRepository.DeleteFile(Int32 fileId)</summary>
+        </member>
+        <member name="M:GameService.DataAccessLayer.Contracts.Fakes.StubIFileRepository.gs::GameService#DataAccessLayer#Contracts#IFileRepository#CheckInFile(System.Int32)">
+            <summary>Sets the stub of IFileRepository.CheckInFile(Int32 fileId)</summary>
+        </member>
+        <member name="M:GameService.DataAccessLayer.Contracts.Fakes.StubIFileRepository.gs::GameService#DataAccessLayer#Contracts#IFileRepository#CheckoutFile(System.Int32)">
+            <summary>Sets the stub of IFileRepository.CheckoutFile(Int32 fileId)</summary>
+        </member>
+        <member name="M:GameService.DataAccessLayer.Contracts.Fakes.StubIFileRepository.gs::GameService#DataAccessLayer#Contracts#IFileRepository#DeleteFile(System.Int32)">
+            <summary>Sets the stub of IFileRepository.DeleteFile(Int32 fileId)</summary>
+        </member>
+        <member name="M:GameService.DataAccessLayer.Contracts.Fakes.StubIFileRepository.gs::GameService#DataAccessLayer#Contracts#IFileRepository#GetFile(System.Int32)">
+            <summary>Sets the stub of IFileRepository.GetFile(Int32 fileId)</summary>
+        </member>
+        <member name="M:GameService.DataAccessLayer.Contracts.Fakes.StubIFileRepository.gs::GameService#DataAccessLayer#Contracts#IFileRepository#GetFile(System.String)">
+            <summary>Sets the stub of IFileRepository.GetFile(String filePath)</summary>
+        </member>
+        <member name="M:GameService.DataAccessLayer.Contracts.Fakes.StubIFileRepository.gs::GameService#DataAccessLayer#Contracts#IFileRepository#InsertFile(System.String,System.Boolean,System.Boolean)">
+            <summary>Sets the stub of IFileRepository.InsertFile(String filePath, Boolean isCheckedOut, Boolean isDirectory)</summary>
+        </member>
+        <member name="M:GameService.DataAccessLayer.Contracts.Fakes.StubIFileRepository.gs::GameService#DataAccessLayer#Contracts#IFileRepository#UpdateFile(System.Int32,System.String,System.Boolean,System.Boolean)">
+            <summary>Sets the stub of IFileRepository.UpdateFile(Int32 fileId, String filePath, Boolean isCheckedOut, Boolean isDirectory)</summary>
+        </member>
+        <member name="F:GameService.DataAccessLayer.Contracts.Fakes.StubIFileRepository.GetFileInt32">
+            <summary>Sets the stub of IFileRepository.GetFile(Int32 fileId)</summary>
+        </member>
+        <member name="F:GameService.DataAccessLayer.Contracts.Fakes.StubIFileRepository.GetFileString">
+            <summary>Sets the stub of IFileRepository.GetFile(String filePath)</summary>
+        </member>
+        <member name="F:GameService.DataAccessLayer.Contracts.Fakes.StubIFileRepository.InsertFileStringBooleanBoolean">
+            <summary>Sets the stub of IFileRepository.InsertFile(String filePath, Boolean isCheckedOut, Boolean isDirectory)</summary>
+        </member>
+        <member name="F:GameService.DataAccessLayer.Contracts.Fakes.StubIFileRepository.UpdateFileInt32StringBooleanBoolean">
+            <summary>Sets the stub of IFileRepository.UpdateFile(Int32 fileId, String filePath, Boolean isCheckedOut, Boolean isDirectory)</summary>
+        </member>
+        <member name="T:GameService.DataAccessLayer.Contracts.Fakes.StubIFileServerRepository">
+            <summary>Stub type of GameService.DataAccessLayer.Contracts.IFileServerRepository</summary>
+        </member>
+        <member name="M:GameService.DataAccessLayer.Contracts.Fakes.StubIFileServerRepository.#ctor">
+            <summary>Initializes a new instance of type StubIFileServerRepository</summary>
+        </member>
+        <member name="T:GameService.DataAccessLayer.Contracts.Fakes.StubIUserRepository">
+            <summary>Stub type of GameService.DataAccessLayer.Contracts.IUserRepository</summary>
+        </member>
+        <member name="M:GameService.DataAccessLayer.Contracts.Fakes.StubIUserRepository.#ctor">
+            <summary>Initializes a new instance of type StubIUserRepository</summary>
+        </member>
+        <member name="F:GameService.DataAccessLayer.Contracts.Fakes.StubIUserRepository.DeleteUserInt32">
+            <summary>Sets the stub of IUserRepository.DeleteUser(Int32 userId)</summary>
+        </member>
+        <member name="M:GameService.DataAccessLayer.Contracts.Fakes.StubIUserRepository.gs::GameService#DataAccessLayer#Contracts#IUserRepository#DeleteUser(System.Int32)">
+            <summary>Sets the stub of IUserRepository.DeleteUser(Int32 userId)</summary>
+        </member>
+        <member name="M:GameService.DataAccessLayer.Contracts.Fakes.StubIUserRepository.gs::GameService#DataAccessLayer#Contracts#IUserRepository#GetUser(System.Int32)">
+            <summary>Sets the stub of IUserRepository.GetUser(Int32 userId)</summary>
+        </member>
+        <member name="M:GameService.DataAccessLayer.Contracts.Fakes.StubIUserRepository.gs::GameService#DataAccessLayer#Contracts#IUserRepository#InsertUser(System.String)">
+            <summary>Sets the stub of IUserRepository.InsertUser(String userName)</summary>
+        </member>
+        <member name="M:GameService.DataAccessLayer.Contracts.Fakes.StubIUserRepository.gs::GameService#DataAccessLayer#Contracts#IUserRepository#UpdateUser(System.Int32,System.String)">
+            <summary>Sets the stub of IUserRepository.UpdateUser(Int32 userId, String userName)</summary>
+        </member>
+        <member name="F:GameService.DataAccessLayer.Contracts.Fakes.StubIUserRepository.GetUserInt32">
+            <summary>Sets the stub of IUserRepository.GetUser(Int32 userId)</summary>
+        </member>
+        <member name="F:GameService.DataAccessLayer.Contracts.Fakes.StubIUserRepository.InsertUserString">
+            <summary>Sets the stub of IUserRepository.InsertUser(String userName)</summary>
+        </member>
+        <member name="F:GameService.DataAccessLayer.Contracts.Fakes.StubIUserRepository.UpdateUserInt32String">
+            <summary>Sets the stub of IUserRepository.UpdateUser(Int32 userId, String userName)</summary>
+        </member>
+        <member name="T:GameService.DataAccessLayer.Fakes.ShimRepositoryFactory">
+            <summary>Shim type of GameService.DataAccessLayer.RepositoryFactory</summary>
+        </member>
+        <member name="M:GameService.DataAccessLayer.Fakes.ShimRepositoryFactory.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:GameService.DataAccessLayer.Fakes.ShimRepositoryFactory.#ctor(GameService.DataAccessLayer.RepositoryFactory)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:GameService.DataAccessLayer.Fakes.ShimRepositoryFactory.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:GameService.DataAccessLayer.Fakes.ShimRepositoryFactory.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:GameService.DataAccessLayer.Fakes.ShimRepositoryFactory.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:GameService.DataAccessLayer.Fakes.ShimRepositoryFactory.ConstructorString">
+            <summary>Sets the mole of RepositoryFactory.RepositoryFactory(String connectionString)</summary>
+        </member>
+        <member name="P:GameService.DataAccessLayer.Fakes.ShimRepositoryFactory.GetDownloadHistoryRepositoryBoolean">
+            <summary>Sets the mole of RepositoryFactory.GetDownloadHistoryRepository(Boolean isTesting)</summary>
+        </member>
+        <member name="P:GameService.DataAccessLayer.Fakes.ShimRepositoryFactory.GetDownloadHistoryRepositoryHelperBooleanDataContext">
+            <summary>Sets the mole of RepositoryFactory.GetDownloadHistoryRepositoryHelper(Boolean isTesting, DataContext existingDataContext)</summary>
+        </member>
+        <member name="P:GameService.DataAccessLayer.Fakes.ShimRepositoryFactory.GetFileRepositoryBoolean">
+            <summary>Sets the mole of RepositoryFactory.GetFileRepository(Boolean isTesting)</summary>
+        </member>
+        <member name="P:GameService.DataAccessLayer.Fakes.ShimRepositoryFactory.GetFileRepositoryHelperBooleanDataContext">
+            <summary>Sets the mole of RepositoryFactory.GetFileRepositoryHelper(Boolean isTesting, DataContext existingDataContext)</summary>
+        </member>
+        <member name="P:GameService.DataAccessLayer.Fakes.ShimRepositoryFactory.GetFileServerRepositoryBoolean">
+            <summary>Sets the mole of RepositoryFactory.GetFileServerRepository(Boolean isTesting)</summary>
+        </member>
+        <member name="P:GameService.DataAccessLayer.Fakes.ShimRepositoryFactory.GetFileServerRepositoryHelperBooleanDataContext">
+            <summary>Sets the mole of RepositoryFactory.GetFileServerRepositoryHelper(Boolean isTesting, DataContext existingDataContext)</summary>
+        </member>
+        <member name="P:GameService.DataAccessLayer.Fakes.ShimRepositoryFactory.GetUserRepositoryBoolean">
+            <summary>Sets the mole of RepositoryFactory.GetUserRepository(Boolean isTesting)</summary>
+        </member>
+        <member name="P:GameService.DataAccessLayer.Fakes.ShimRepositoryFactory.GetUserRepositoryHelperBooleanDataContext">
+            <summary>Sets the mole of RepositoryFactory.GetUserRepositoryHelper(Boolean isTesting, DataContext existingDataContext)</summary>
+        </member>
+        <member name="T:GameService.DataAccessLayer.Fakes.ShimRepositoryFactory.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:GameService.DataAccessLayer.Fakes.ShimRepositoryFactory.AllInstances.GetDownloadHistoryRepositoryBoolean">
+            <summary>Sets the mole of RepositoryFactory.GetDownloadHistoryRepository(Boolean isTesting)</summary>
+        </member>
+        <member name="P:GameService.DataAccessLayer.Fakes.ShimRepositoryFactory.AllInstances.GetDownloadHistoryRepositoryHelperBooleanDataContext">
+            <summary>Sets the mole of RepositoryFactory.GetDownloadHistoryRepositoryHelper(Boolean isTesting, DataContext existingDataContext)</summary>
+        </member>
+        <member name="P:GameService.DataAccessLayer.Fakes.ShimRepositoryFactory.AllInstances.GetFileRepositoryBoolean">
+            <summary>Sets the mole of RepositoryFactory.GetFileRepository(Boolean isTesting)</summary>
+        </member>
+        <member name="P:GameService.DataAccessLayer.Fakes.ShimRepositoryFactory.AllInstances.GetFileRepositoryHelperBooleanDataContext">
+            <summary>Sets the mole of RepositoryFactory.GetFileRepositoryHelper(Boolean isTesting, DataContext existingDataContext)</summary>
+        </member>
+        <member name="P:GameService.DataAccessLayer.Fakes.ShimRepositoryFactory.AllInstances.GetFileServerRepositoryBoolean">
+            <summary>Sets the mole of RepositoryFactory.GetFileServerRepository(Boolean isTesting)</summary>
+        </member>
+        <member name="P:GameService.DataAccessLayer.Fakes.ShimRepositoryFactory.AllInstances.GetFileServerRepositoryHelperBooleanDataContext">
+            <summary>Sets the mole of RepositoryFactory.GetFileServerRepositoryHelper(Boolean isTesting, DataContext existingDataContext)</summary>
+        </member>
+        <member name="P:GameService.DataAccessLayer.Fakes.ShimRepositoryFactory.AllInstances.GetUserRepositoryBoolean">
+            <summary>Sets the mole of RepositoryFactory.GetUserRepository(Boolean isTesting)</summary>
+        </member>
+        <member name="P:GameService.DataAccessLayer.Fakes.ShimRepositoryFactory.AllInstances.GetUserRepositoryHelperBooleanDataContext">
+            <summary>Sets the mole of RepositoryFactory.GetUserRepositoryHelper(Boolean isTesting, DataContext existingDataContext)</summary>
+        </member>
+        <member name="T:GameService.DataAccessLayer.Fakes.StubRepositoryFactory">
+            <summary>Stub type of GameService.DataAccessLayer.RepositoryFactory</summary>
+        </member>
+        <member name="M:GameService.DataAccessLayer.Fakes.StubRepositoryFactory.#ctor(System.String)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:GameService.DataAccessLayer.Fakes.StubRepositoryFactory.InitializeStub">
+            <summary>Initializes a new instance of type StubRepositoryFactory</summary>
+        </member>
+        <member name="P:GameService.DataAccessLayer.Fakes.StubRepositoryFactory.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:GameService.DataAccessLayer.Fakes.StubRepositoryFactory.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="T:GameService.Fakes.ShimCompositeType">
+            <summary>Shim type of GameService.CompositeType</summary>
+        </member>
+        <member name="M:GameService.Fakes.ShimCompositeType.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:GameService.Fakes.ShimCompositeType.#ctor(GameService.CompositeType)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:GameService.Fakes.ShimCompositeType.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:GameService.Fakes.ShimCompositeType.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimCompositeType.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimCompositeType.BoolValueGet">
+            <summary>Sets the mole of CompositeType.get_BoolValue()</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimCompositeType.BoolValueSetBoolean">
+            <summary>Sets the mole of CompositeType.set_BoolValue(Boolean value)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimCompositeType.Constructor">
+            <summary>Sets the mole of CompositeType.CompositeType()</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimCompositeType.StringValueGet">
+            <summary>Sets the mole of CompositeType.get_StringValue()</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimCompositeType.StringValueSetString">
+            <summary>Sets the mole of CompositeType.set_StringValue(String value)</summary>
+        </member>
+        <member name="T:GameService.Fakes.ShimCompositeType.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimCompositeType.AllInstances.BoolValueGet">
+            <summary>Sets the mole of CompositeType.get_BoolValue()</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimCompositeType.AllInstances.BoolValueSetBoolean">
+            <summary>Sets the mole of CompositeType.set_BoolValue(Boolean value)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimCompositeType.AllInstances.StringValueGet">
+            <summary>Sets the mole of CompositeType.get_StringValue()</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimCompositeType.AllInstances.StringValueSetString">
+            <summary>Sets the mole of CompositeType.set_StringValue(String value)</summary>
+        </member>
+        <member name="T:GameService.Fakes.ShimGameAssetService">
+            <summary>Shim type of GameService.GameAssetService</summary>
+        </member>
+        <member name="M:GameService.Fakes.ShimGameAssetService.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:GameService.Fakes.ShimGameAssetService.#ctor(GameService.GameAssetService)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:GameService.Fakes.ShimGameAssetService.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:GameService.Fakes.ShimGameAssetService.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:GameService.Fakes.ShimGameAssetService.Bind(GameService.IGameAssetService)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.CheckInStringListOfString">
+            <summary>Sets the mole of GameAssetService.CheckIn(String userName, List`1&lt;String&gt; filePaths)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.CheckInTestStringString">
+            <summary>Sets the mole of GameAssetService.CheckInTest(String userName, String filePath)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.CheckoutInt32Int32">
+            <summary>Sets the mole of GameAssetService.Checkout(Int32 userId, Int32 fileId)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.Constructor">
+            <summary>Sets the mole of GameAssetService.GameAssetService()</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.ConstructorRepositoryFactory">
+            <summary>Sets the mole of GameAssetService.GameAssetService(RepositoryFactory existingRepositoryFactory)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.GetDataInt32">
+            <summary>Sets the mole of GameAssetService.GetData(Int32 value)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.GetLatestStringString">
+            <summary>Sets the mole of GameAssetService.GetLatest(String userName, String filePath)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.InsertDownloadTimeInt32Int32DateTime">
+            <summary>Sets the mole of GameAssetService.InsertDownloadTime(Int32 userId, Int32 fileId, DateTime downloadTime)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.InsertFileStatusInt32Int32DateTime">
+            <summary>Sets the mole of GameAssetService.InsertFileStatus(Int32 userId, Int32 fileId, DateTime downloadTime)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.InsertNewFileStringBoolean">
+            <summary>Sets the mole of GameAssetService.InsertNewFile(String filePath, Boolean checkedOut)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.InsertNewUserString">
+            <summary>Sets the mole of GameAssetService.InsertNewUser(String userName)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.IsFileCheckedOutString">
+            <summary>Sets the mole of GameAssetService.IsFileCheckedOut(String fileName)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.LookupDownloadTimeIdInt32Int32">
+            <summary>Sets the mole of GameAssetService.LookupDownloadTimeId(Int32 userId, Int32 fileId)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.LookupDownloadTimeInt32Int32">
+            <summary>Sets the mole of GameAssetService.LookupDownloadTime(Int32 userId, Int32 fileId)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.LookupFileIdString">
+            <summary>Sets the mole of GameAssetService.LookupFileId(String filePath)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.LookupFileStatusString">
+            <summary>Sets the mole of GameAssetService.LookupFileStatus(String filePath)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.LookupOrInsertDownloadTimesStringListOfString">
+            <summary>Sets the mole of GameAssetService.LookupOrInsertDownloadTimes(String userName, List`1&lt;String&gt; filePaths)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.LookupOrInsertFileIdString">
+            <summary>Sets the mole of GameAssetService.LookupOrInsertFileId(String filePath)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.LookupOrInsertUserIdString">
+            <summary>Sets the mole of GameAssetService.LookupOrInsertUserId(String userName)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.LookupUserIdString">
+            <summary>Sets the mole of GameAssetService.LookupUserId(String userName)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.UpdateFileInt32Boolean">
+            <summary>Sets the mole of GameAssetService.UpdateFile(Int32 fileId, Boolean checkedOut)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.UploadDownloadTimeInt32DateTime">
+            <summary>Sets the mole of GameAssetService.UploadDownloadTime(Int32 downloadId, DateTime downloadTime)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.WriteDownloadTimesToDBStringListOfString">
+            <summary>Sets the mole of GameAssetService.WriteDownloadTimesToDB(String userName, List`1&lt;String&gt; filePaths)</summary>
+        </member>
+        <member name="T:GameService.Fakes.ShimGameAssetService.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.AllInstances.CheckInStringListOfString">
+            <summary>Sets the mole of GameAssetService.CheckIn(String userName, List`1&lt;String&gt; filePaths)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.AllInstances.CheckInTestStringString">
+            <summary>Sets the mole of GameAssetService.CheckInTest(String userName, String filePath)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.AllInstances.CheckoutInt32Int32">
+            <summary>Sets the mole of GameAssetService.Checkout(Int32 userId, Int32 fileId)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.AllInstances.GetDataInt32">
+            <summary>Sets the mole of GameAssetService.GetData(Int32 value)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.AllInstances.GetLatestStringString">
+            <summary>Sets the mole of GameAssetService.GetLatest(String userName, String filePath)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.AllInstances.InsertDownloadTimeInt32Int32DateTime">
+            <summary>Sets the mole of GameAssetService.InsertDownloadTime(Int32 userId, Int32 fileId, DateTime downloadTime)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.AllInstances.InsertFileStatusInt32Int32DateTime">
+            <summary>Sets the mole of GameAssetService.InsertFileStatus(Int32 userId, Int32 fileId, DateTime downloadTime)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.AllInstances.InsertNewFileStringBoolean">
+            <summary>Sets the mole of GameAssetService.InsertNewFile(String filePath, Boolean checkedOut)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.AllInstances.InsertNewUserString">
+            <summary>Sets the mole of GameAssetService.InsertNewUser(String userName)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.AllInstances.IsFileCheckedOutString">
+            <summary>Sets the mole of GameAssetService.IsFileCheckedOut(String fileName)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.AllInstances.LookupDownloadTimeIdInt32Int32">
+            <summary>Sets the mole of GameAssetService.LookupDownloadTimeId(Int32 userId, Int32 fileId)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.AllInstances.LookupDownloadTimeInt32Int32">
+            <summary>Sets the mole of GameAssetService.LookupDownloadTime(Int32 userId, Int32 fileId)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.AllInstances.LookupFileIdString">
+            <summary>Sets the mole of GameAssetService.LookupFileId(String filePath)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.AllInstances.LookupFileStatusString">
+            <summary>Sets the mole of GameAssetService.LookupFileStatus(String filePath)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.AllInstances.LookupOrInsertDownloadTimesStringListOfString">
+            <summary>Sets the mole of GameAssetService.LookupOrInsertDownloadTimes(String userName, List`1&lt;String&gt; filePaths)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.AllInstances.LookupOrInsertFileIdString">
+            <summary>Sets the mole of GameAssetService.LookupOrInsertFileId(String filePath)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.AllInstances.LookupOrInsertUserIdString">
+            <summary>Sets the mole of GameAssetService.LookupOrInsertUserId(String userName)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.AllInstances.LookupUserIdString">
+            <summary>Sets the mole of GameAssetService.LookupUserId(String userName)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.AllInstances.UpdateFileInt32Boolean">
+            <summary>Sets the mole of GameAssetService.UpdateFile(Int32 fileId, Boolean checkedOut)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.AllInstances.UploadDownloadTimeInt32DateTime">
+            <summary>Sets the mole of GameAssetService.UploadDownloadTime(Int32 downloadId, DateTime downloadTime)</summary>
+        </member>
+        <member name="P:GameService.Fakes.ShimGameAssetService.AllInstances.WriteDownloadTimesToDBStringListOfString">
+            <summary>Sets the mole of GameAssetService.WriteDownloadTimesToDB(String userName, List`1&lt;String&gt; filePaths)</summary>
+        </member>
+        <member name="T:GameService.Fakes.StubCompositeType">
+            <summary>Stub type of GameService.CompositeType</summary>
+        </member>
+        <member name="M:GameService.Fakes.StubCompositeType.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:GameService.Fakes.StubCompositeType.InitializeStub">
+            <summary>Initializes a new instance of type StubCompositeType</summary>
+        </member>
+        <member name="P:GameService.Fakes.StubCompositeType.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:GameService.Fakes.StubCompositeType.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="T:GameService.Fakes.StubGameAssetService">
+            <summary>Stub type of GameService.GameAssetService</summary>
+        </member>
+        <member name="M:GameService.Fakes.StubGameAssetService.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:GameService.Fakes.StubGameAssetService.#ctor(GameService.DataAccessLayer.RepositoryFactory)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:GameService.Fakes.StubGameAssetService.InitializeStub">
+            <summary>Initializes a new instance of type StubGameAssetService</summary>
+        </member>
+        <member name="P:GameService.Fakes.StubGameAssetService.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:GameService.Fakes.StubGameAssetService.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="T:GameService.Fakes.StubIGameAssetService">
+            <summary>Stub type of GameService.IGameAssetService</summary>
+        </member>
+        <member name="M:GameService.Fakes.StubIGameAssetService.#ctor">
+            <summary>Initializes a new instance of type StubIGameAssetService</summary>
+        </member>
+        <member name="F:GameService.Fakes.StubIGameAssetService.CheckInStringListOfString">
+            <summary>Sets the stub of IGameAssetService.CheckIn(String userName, List`1&lt;String&gt; filePaths)</summary>
+        </member>
+        <member name="F:GameService.Fakes.StubIGameAssetService.CheckInTestStringString">
+            <summary>Sets the stub of IGameAssetService.CheckInTest(String userName, String filePath)</summary>
+        </member>
+        <member name="F:GameService.Fakes.StubIGameAssetService.CheckoutInt32Int32">
+            <summary>Sets the stub of IGameAssetService.Checkout(Int32 userId, Int32 fileId)</summary>
+        </member>
+        <member name="M:GameService.Fakes.StubIGameAssetService.gs::GameService#IGameAssetService#CheckIn(System.String,System.Collections.Generic.List{System.String})">
+            <summary>Sets the stub of IGameAssetService.CheckIn(String userName, List`1&lt;String&gt; filePaths)</summary>
+        </member>
+        <member name="M:GameService.Fakes.StubIGameAssetService.gs::GameService#IGameAssetService#CheckInTest(System.String,System.String)">
+            <summary>Sets the stub of IGameAssetService.CheckInTest(String userName, String filePath)</summary>
+        </member>
+        <member name="M:GameService.Fakes.StubIGameAssetService.gs::GameService#IGameAssetService#Checkout(System.Int32,System.Int32)">
+            <summary>Sets the stub of IGameAssetService.Checkout(Int32 userId, Int32 fileId)</summary>
+        </member>
+        <member name="M:GameService.Fakes.StubIGameAssetService.gs::GameService#IGameAssetService#GetData(System.Int32)">
+            <summary>Sets the stub of IGameAssetService.GetData(Int32 value)</summary>
+        </member>
+        <member name="M:GameService.Fakes.StubIGameAssetService.gs::GameService#IGameAssetService#GetLatest(System.String,System.String)">
+            <summary>Sets the stub of IGameAssetService.GetLatest(String userName, String filePath)</summary>
+        </member>
+        <member name="M:GameService.Fakes.StubIGameAssetService.gs::GameService#IGameAssetService#IsFileCheckedOut(System.String)">
+            <summary>Sets the stub of IGameAssetService.IsFileCheckedOut(String fileName)</summary>
+        </member>
+        <member name="F:GameService.Fakes.StubIGameAssetService.GetDataInt32">
+            <summary>Sets the stub of IGameAssetService.GetData(Int32 value)</summary>
+        </member>
+        <member name="F:GameService.Fakes.StubIGameAssetService.GetLatestStringString">
+            <summary>Sets the stub of IGameAssetService.GetLatest(String userName, String filePath)</summary>
+        </member>
+        <member name="F:GameService.Fakes.StubIGameAssetService.IsFileCheckedOutString">
+            <summary>Sets the stub of IGameAssetService.IsFileCheckedOut(String fileName)</summary>
+        </member>
+        <member name="T:GameService.ServiceAccessLayer.Messages.Requests.Fakes.ShimCheckOutRequest">
+            <summary>Shim type of GameService.ServiceAccessLayer.Messages.Requests.CheckOutRequest</summary>
+        </member>
+        <member name="M:GameService.ServiceAccessLayer.Messages.Requests.Fakes.ShimCheckOutRequest.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:GameService.ServiceAccessLayer.Messages.Requests.Fakes.ShimCheckOutRequest.#ctor(GameService.ServiceAccessLayer.Messages.Requests.CheckOutRequest)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:GameService.ServiceAccessLayer.Messages.Requests.Fakes.ShimCheckOutRequest.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:GameService.ServiceAccessLayer.Messages.Requests.Fakes.ShimCheckOutRequest.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:GameService.ServiceAccessLayer.Messages.Requests.Fakes.ShimCheckOutRequest.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:GameService.ServiceAccessLayer.Messages.Requests.Fakes.ShimCheckOutRequest.Constructor">
+            <summary>Sets the mole of CheckOutRequest.CheckOutRequest()</summary>
+        </member>
+        <member name="T:GameService.ServiceAccessLayer.Messages.Requests.Fakes.ShimCheckOutRequest.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="T:GameService.ServiceAccessLayer.Messages.Requests.Fakes.ShimRequestBase">
+            <summary>Shim type of GameService.ServiceAccessLayer.Messages.Requests.RequestBase</summary>
+        </member>
+        <member name="M:GameService.ServiceAccessLayer.Messages.Requests.Fakes.ShimRequestBase.#ctor(GameService.ServiceAccessLayer.Messages.Requests.RequestBase)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:GameService.ServiceAccessLayer.Messages.Requests.Fakes.ShimRequestBase.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:GameService.ServiceAccessLayer.Messages.Requests.Fakes.ShimRequestBase.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:GameService.ServiceAccessLayer.Messages.Requests.Fakes.ShimRequestBase.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:GameService.ServiceAccessLayer.Messages.Requests.Fakes.ShimRequestBase.ConnectionStringGet">
+            <summary>Sets the mole of RequestBase.get_ConnectionString()</summary>
+        </member>
+        <member name="P:GameService.ServiceAccessLayer.Messages.Requests.Fakes.ShimRequestBase.ConnectionStringSetString">
+            <summary>Sets the mole of RequestBase.set_ConnectionString(String value)</summary>
+        </member>
+        <member name="P:GameService.ServiceAccessLayer.Messages.Requests.Fakes.ShimRequestBase.Constructor">
+            <summary>Sets the mole of RequestBase.RequestBase()</summary>
+        </member>
+        <member name="P:GameService.ServiceAccessLayer.Messages.Requests.Fakes.ShimRequestBase.RequestExceptionGet">
+            <summary>Sets the mole of RequestBase.get_RequestException()</summary>
+        </member>
+        <member name="P:GameService.ServiceAccessLayer.Messages.Requests.Fakes.ShimRequestBase.RequestExceptionSetException">
+            <summary>Sets the mole of RequestBase.set_RequestException(Exception value)</summary>
+        </member>
+        <member name="T:GameService.ServiceAccessLayer.Messages.Requests.Fakes.ShimRequestBase.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:GameService.ServiceAccessLayer.Messages.Requests.Fakes.ShimRequestBase.AllInstances.ConnectionStringGet">
+            <summary>Sets the mole of RequestBase.get_ConnectionString()</summary>
+        </member>
+        <member name="P:GameService.ServiceAccessLayer.Messages.Requests.Fakes.ShimRequestBase.AllInstances.ConnectionStringSetString">
+            <summary>Sets the mole of RequestBase.set_ConnectionString(String value)</summary>
+        </member>
+        <member name="P:GameService.ServiceAccessLayer.Messages.Requests.Fakes.ShimRequestBase.AllInstances.RequestExceptionGet">
+            <summary>Sets the mole of RequestBase.get_RequestException()</summary>
+        </member>
+        <member name="P:GameService.ServiceAccessLayer.Messages.Requests.Fakes.ShimRequestBase.AllInstances.RequestExceptionSetException">
+            <summary>Sets the mole of RequestBase.set_RequestException(Exception value)</summary>
+        </member>
+        <member name="T:GameService.ServiceAccessLayer.Messages.Requests.Fakes.StubCheckOutRequest">
+            <summary>Stub type of GameService.ServiceAccessLayer.Messages.Requests.CheckOutRequest</summary>
+        </member>
+        <member name="M:GameService.ServiceAccessLayer.Messages.Requests.Fakes.StubCheckOutRequest.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:GameService.ServiceAccessLayer.Messages.Requests.Fakes.StubCheckOutRequest.InitializeStub">
+            <summary>Initializes a new instance of type StubCheckOutRequest</summary>
+        </member>
+        <member name="P:GameService.ServiceAccessLayer.Messages.Requests.Fakes.StubCheckOutRequest.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:GameService.ServiceAccessLayer.Messages.Requests.Fakes.StubCheckOutRequest.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="T:GameService.ServiceAccessLayer.Messages.Requests.Fakes.StubRequestBase">
+            <summary>Stub type of GameService.ServiceAccessLayer.Messages.Requests.RequestBase</summary>
+        </member>
+        <member name="M:GameService.ServiceAccessLayer.Messages.Requests.Fakes.StubRequestBase.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:GameService.ServiceAccessLayer.Messages.Requests.Fakes.StubRequestBase.InitializeStub">
+            <summary>Initializes a new instance of type StubRequestBase</summary>
+        </member>
+        <member name="P:GameService.ServiceAccessLayer.Messages.Requests.Fakes.StubRequestBase.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:GameService.ServiceAccessLayer.Messages.Requests.Fakes.StubRequestBase.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="T:GameService.ServiceAccessLayer.Messages.Responses.Fakes.ShimCheckOutResponse">
+            <summary>Shim type of GameService.ServiceAccessLayer.Messages.Responses.CheckOutResponse</summary>
+        </member>
+        <member name="M:GameService.ServiceAccessLayer.Messages.Responses.Fakes.ShimCheckOutResponse.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:GameService.ServiceAccessLayer.Messages.Responses.Fakes.ShimCheckOutResponse.#ctor(GameService.ServiceAccessLayer.Messages.Responses.CheckOutResponse)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:GameService.ServiceAccessLayer.Messages.Responses.Fakes.ShimCheckOutResponse.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:GameService.ServiceAccessLayer.Messages.Responses.Fakes.ShimCheckOutResponse.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:GameService.ServiceAccessLayer.Messages.Responses.Fakes.ShimCheckOutResponse.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:GameService.ServiceAccessLayer.Messages.Responses.Fakes.ShimCheckOutResponse.Constructor">
+            <summary>Sets the mole of CheckOutResponse.CheckOutResponse()</summary>
+        </member>
+        <member name="T:GameService.ServiceAccessLayer.Messages.Responses.Fakes.ShimCheckOutResponse.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="T:GameService.ServiceAccessLayer.Messages.Responses.Fakes.ShimResponseBase">
+            <summary>Shim type of GameService.ServiceAccessLayer.Messages.Responses.ResponseBase</summary>
+        </member>
+        <member name="M:GameService.ServiceAccessLayer.Messages.Responses.Fakes.ShimResponseBase.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:GameService.ServiceAccessLayer.Messages.Responses.Fakes.ShimResponseBase.#ctor(GameService.ServiceAccessLayer.Messages.Responses.ResponseBase)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:GameService.ServiceAccessLayer.Messages.Responses.Fakes.ShimResponseBase.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:GameService.ServiceAccessLayer.Messages.Responses.Fakes.ShimResponseBase.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:GameService.ServiceAccessLayer.Messages.Responses.Fakes.ShimResponseBase.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:GameService.ServiceAccessLayer.Messages.Responses.Fakes.ShimResponseBase.Constructor">
+            <summary>Sets the mole of ResponseBase.ResponseBase()</summary>
+        </member>
+        <member name="P:GameService.ServiceAccessLayer.Messages.Responses.Fakes.ShimResponseBase.MessageGet">
+            <summary>Sets the mole of ResponseBase.get_Message()</summary>
+        </member>
+        <member name="P:GameService.ServiceAccessLayer.Messages.Responses.Fakes.ShimResponseBase.MessageSetString">
+            <summary>Sets the mole of ResponseBase.set_Message(String value)</summary>
+        </member>
+        <member name="P:GameService.ServiceAccessLayer.Messages.Responses.Fakes.ShimResponseBase.SuccessGet">
+            <summary>Sets the mole of ResponseBase.get_Success()</summary>
+        </member>
+        <member name="P:GameService.ServiceAccessLayer.Messages.Responses.Fakes.ShimResponseBase.SuccessSetBoolean">
+            <summary>Sets the mole of ResponseBase.set_Success(Boolean value)</summary>
+        </member>
+        <member name="T:GameService.ServiceAccessLayer.Messages.Responses.Fakes.ShimResponseBase.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:GameService.ServiceAccessLayer.Messages.Responses.Fakes.ShimResponseBase.AllInstances.MessageGet">
+            <summary>Sets the mole of ResponseBase.get_Message()</summary>
+        </member>
+        <member name="P:GameService.ServiceAccessLayer.Messages.Responses.Fakes.ShimResponseBase.AllInstances.MessageSetString">
+            <summary>Sets the mole of ResponseBase.set_Message(String value)</summary>
+        </member>
+        <member name="P:GameService.ServiceAccessLayer.Messages.Responses.Fakes.ShimResponseBase.AllInstances.SuccessGet">
+            <summary>Sets the mole of ResponseBase.get_Success()</summary>
+        </member>
+        <member name="P:GameService.ServiceAccessLayer.Messages.Responses.Fakes.ShimResponseBase.AllInstances.SuccessSetBoolean">
+            <summary>Sets the mole of ResponseBase.set_Success(Boolean value)</summary>
+        </member>
+        <member name="T:GameService.ServiceAccessLayer.Messages.Responses.Fakes.StubCheckOutResponse">
+            <summary>Stub type of GameService.ServiceAccessLayer.Messages.Responses.CheckOutResponse</summary>
+        </member>
+        <member name="M:GameService.ServiceAccessLayer.Messages.Responses.Fakes.StubCheckOutResponse.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:GameService.ServiceAccessLayer.Messages.Responses.Fakes.StubCheckOutResponse.InitializeStub">
+            <summary>Initializes a new instance of type StubCheckOutResponse</summary>
+        </member>
+        <member name="P:GameService.ServiceAccessLayer.Messages.Responses.Fakes.StubCheckOutResponse.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:GameService.ServiceAccessLayer.Messages.Responses.Fakes.StubCheckOutResponse.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="T:GameService.ServiceAccessLayer.Messages.Responses.Fakes.StubResponseBase">
+            <summary>Stub type of GameService.ServiceAccessLayer.Messages.Responses.ResponseBase</summary>
+        </member>
+        <member name="M:GameService.ServiceAccessLayer.Messages.Responses.Fakes.StubResponseBase.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:GameService.ServiceAccessLayer.Messages.Responses.Fakes.StubResponseBase.InitializeStub">
+            <summary>Initializes a new instance of type StubResponseBase</summary>
+        </member>
+        <member name="P:GameService.ServiceAccessLayer.Messages.Responses.Fakes.StubResponseBase.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:GameService.ServiceAccessLayer.Messages.Responses.Fakes.StubResponseBase.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+    </members>
+</doc>
